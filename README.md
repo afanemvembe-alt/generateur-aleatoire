@@ -1,21 +1,21 @@
-# 🔒 Générateur de Mots de Passe Sécurisés (Flask Web App)
+# Generateur de Mots de Passe Securises (Flask Web App)
 
-Cette application Web développée en **Python avec Flask** permet de générer des mots de passe aléatoires, hautement sécurisés et faciles à retenir en y intégrant des repères personnels (fruit, animal ou date clé). L'algorithme se charge ensuite de combiner et mélanger ces données avec des jeux de caractères complexes (majuscules, chiffres, symboles).
+Cette application Web developpee en Python avec Flask permet de generer des mots de passe aleatoires, hautement securises et faciles a retenir en y integrant des reperes personnels (fruit, animal ou date cle). L'algorithme se charge ensuite de combiner et melanger ces donnees avec des jeux de caracteres complexes (majuscules, chiffres, symboles).
 
-## ✨ Fonctionnalités
-* **Interface Web Intuitive** : Formulaire simple et épuré pour configurer son mot de passe.
-* **Sécurisation Personnalisée** : Mixage intelligent entre variables aléatoires et ancres mnémotechniques fournies par l'utilisateur.
-* **Longueur Ajustable** : Contrôle total sur la taille finale du mot de passe généré.
+## Fonctionnalites
+* Interface Web Intuitive : Formulaire simple et epure pour configurer son mot de passe.
+* Securisation Personnalisee : Mixage intelligent entre variables aleatoires et ancres mnemotechniques fournies par l'utilisateur.
+* Longueur Ajustable : Controle total sur la taille finale du mot de passe genere.
 
-## 🚀 Installation et Lancement Local
+## Installation et Lancement Local
 
-1. **Installer les dépendances** :
+1. Installer les dependances :
    ```bash
    pip install -r requirements.txt
    ```
 
-2. **Lancer l'application** :
+2. Lancer l'application :
    ```bash
    python app.py
    ```
-   L'application sera accessible sur votre navigateur à l'adresse http://127.0.0.1:5000.
+   L'application sera accessible sur votre navigateur a l'adresse http://127.0.0.1:5000.
